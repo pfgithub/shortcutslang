@@ -1,2 +1,1 @@
-# shortcutslang
-Github pages redirect for ScPL
+This page has moved to https://docs.scpl.dev/
